@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/merge-id-card/static/css/main.ff8720cc.css",
+    "main.js": "/merge-id-card/static/js/main.84d48835.js",
+    "static/js/787.f6aad3ed.chunk.js": "/merge-id-card/static/js/787.f6aad3ed.chunk.js",
+    "index.html": "/merge-id-card/index.html",
+    "main.ff8720cc.css.map": "/merge-id-card/static/css/main.ff8720cc.css.map",
+    "main.84d48835.js.map": "/merge-id-card/static/js/main.84d48835.js.map",
+    "787.f6aad3ed.chunk.js.map": "/merge-id-card/static/js/787.f6aad3ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff8720cc.css",
+    "static/js/main.84d48835.js"
+  ]
+}
