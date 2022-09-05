@@ -1,0 +1,26 @@
+.stage {
+  position: relative;
+  border: 1px solid #ccc;
+  margin-top: 60px;
+}
+
+.stage::after {
+  content: "";
+  display: block;
+  padding-top: calc(2480/3508 * 100%);
+}
+
+.konvajs-content {
+  position: absolute !important;
+  left: 0 !important;
+  top: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.konvajs-content canvas {
+  left: 0 !important;
+  top: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+}
